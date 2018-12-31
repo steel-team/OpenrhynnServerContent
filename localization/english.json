@@ -1,0 +1,143 @@
+{
+	"language": {
+		"code": "en",
+		"data": [
+			{
+				"id": "error_unknown",
+				"value": "Unknown error occuried!"
+			},
+			{
+				"id": "error_credentials",
+				"value": "Login or password is incorrect!"
+			},
+			{
+				"id": "username_length_notenough",
+				"value": "Login should contain at least 4 characters!"
+			},
+			{
+				"id": "username_length_tobig",
+				"value": "Login to big, max. size 16!"
+			},
+			{
+				"id": "password_length_notenough",
+				"value": "Password should contain at least 4 symbols!"
+			},
+			{
+				"id": "username_invalid",
+				"value": "Username is invalid!"
+			},
+			{
+				"id": "username_is_taken",
+				"value": "Login is already taken!"
+			},
+			{
+				"id": "registration_success",
+				"value": "Account registered!"
+			},
+			{
+				"id": "too_many_characters",
+				"value": "Max. characters 5"
+			},
+			{
+				"id": "character_created",
+				"value": "Character created!"
+			},
+			{
+				"id": "wrong_code",
+				"value": "Wrong reset code!"
+			},
+			{
+				"id": "email_already_set",
+				"value": "Email already set!"
+			},
+			{
+				"id": "email_not_match",
+				"value": "Email not match!"
+			},
+			{
+				"id": "error_char_notfound",
+				"value": "Character not found!"
+			},
+			{
+				"id": "error_char_name",
+				"value": "Error, char name is wrong!"
+			},
+			{
+				"id": "character_name_inuse",
+				"value": "Character name is already in use!"
+			},
+			{
+				"id": "error_class_not_found",
+				"value": "Error, selected class not found!"
+			},
+			{
+				"id": "mail_ok",
+				"value": "Email setup complete!"
+			},
+			{
+				"id": "wrong_message",
+				"value": "You already in playfield!"
+			},
+			{
+				"id": "login_try_again",
+				"value": "Try login via 1-2 minutes"
+			},
+			{
+				"id": "added_gold",
+				"value": "added gold "
+			},
+			{
+				"id": "already_full_hp",
+				"value": "you already have full hp!"
+			},
+			{
+				"id": "already_full_mp",
+				"value": "you already have full mp!"
+			},
+			{
+				"id": "banned",
+				"value": "Your account is banned!"
+			},
+			{
+				"id": "level_enter",
+				"value": "A cave entry - but it seems magically locked."
+			},
+			{
+				"id": "player_offline",
+				"value": "Player is offline!"
+			},
+			{
+				"id": "friend_add_error",
+				"value": "can't add friend!"
+			},
+			{
+				"id": "friend_new_request",
+				"value": "New friend request!"
+			},
+			{
+				"id": "friend_request_declined",
+				"value": "Friend request declined!"
+			},
+			{
+				"id": "friend_request_accepted",
+				"value": "Friend request accepted!"
+			},
+			{
+				"id": "friend_deleted",
+				"value": "Player {0} delete you from friend list!";
+			},
+			{
+				"id": "friend_online",
+				"value": "Player {0} is online"
+			},
+			{
+				"id": "friend_offline",
+				"value": "Player {0} is offline"
+			},
+			{
+				"id": "friend_max_error",
+				"value": "Can't add friend, no free slots left."
+			}
+		]
+	}
+}

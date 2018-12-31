@@ -1,0 +1,16 @@
+{
+	"servers": [
+		{
+			"name": "Openrhynn Old",
+			"ip": "server2.openrhynn.net"
+		},
+		{
+			"name": "Openrhynn New",
+			"ip": "server3.openrhynn.net"
+		},
+		{
+			"name": "Local",
+			"ip": "127.0.0.1"
+		}
+	]
+}

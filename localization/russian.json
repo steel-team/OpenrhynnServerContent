@@ -1,0 +1,143 @@
+{
+	"language": {
+		"code": "ru",
+		"data": [
+			{
+				"id": "error_unknown",
+				"value": "Неизвестная ошибка!"
+			},
+			{
+				"id": "error_credentials",
+				"value": "Логин или пароль введены не верно!"
+			},
+			{
+				"id": "username_length_notenough",
+				"value": "Логин должен содержать минимум 4 символа!"
+			},
+			{
+				"id": "username_length_tobig",
+				"value": "Логин слишком большой, макс. длина 16!"
+			},
+			{
+				"id": "password_length_notenough",
+				"value": "Пароль должен содержать минимум 4 символа!"
+			},
+			{
+				"id": "username_invalid",
+				"value": "Логин содержит недопустимые символы!"
+			},
+			{
+				"id": "username_is_taken",
+				"value": "Логин занят!"
+			},
+			{
+				"id": "registration_success",
+				"value": "Вы зарегистрированы успешно!"
+			},
+			{
+				"id": "too_many_characters",
+				"value": "У вас максимальное количество персонажей!"
+			},
+			{
+				"id": "character_created",
+				"value": "Персонаж создан!"
+			},
+			{
+				"id": "wrong_code",
+				"value": "Не правильный код!"
+			},
+			{
+				"id": "email_already_set",
+				"value": "Email уже установлен!"
+			},
+			{
+				"id": "email_not_match",
+				"value": "Email введён не правильно!"
+			},
+			{
+				"id": "error_char_notfound",
+				"value": "Персонаж не найден!"
+			},
+			{
+				"id": "error_char_name",
+				"value": "Ошибка, имя введено не верно!"
+			},
+			{
+				"id": "character_name_inuse",
+				"value": "Имя персонажа уже занято!"
+			},
+			{
+				"id": "error_class_not_found",
+				"value": "Ошибка, выбранный класс не найден!"
+			},
+			{
+				"id": "mail_ok",
+				"value": "Email установлен!"
+			},
+			{
+				"id": "wrong_message",
+				"value": "Вы уже находитесь в игре!"
+			},
+			{
+				"id": "login_try_again",
+				"value": "Попробуйте зайти через 1-2 минуты"
+			},
+			{
+				"id": "added_gold",
+				"value": "получено золото "
+			},
+			{
+				"id": "already_full_hp",
+				"value": "у вас уже полное хп!"
+			},
+			{
+				"id": "already_full_mp",
+				"value": "у вас уже полная мана!"
+			},
+			{
+				"id": "banned",
+				"value": "Ваш аккаунт заблокирован!"
+			},
+			{
+				"id": "level_enter",
+				"value": "Вход в пещеру - похоже он магически запечатан."
+			},
+			{
+				"id": "player_offline",
+				"value": "Игрок не в сети!"
+			},
+			{
+				"id": "friend_add_error",
+				"value": "невозможно добавить друга!"
+			},
+			{
+				"id": "friend_new_request",
+				"value": "Новый запрос в друзья!"
+			},
+			{
+				"id": "friend_request_declined",
+				"value": "Запрос в друзья отклонен!"
+			},
+			{
+				"id": "friend_request_accepted",
+				"value": "Запрос в друзья принят!"
+			},
+			{
+				"id": "friend_deleted",
+				"value": "Игрок {0} удалил вас из друзей!";
+			},
+			{
+				"id": "friend_online",
+				"value": "Игрок {0} в сети"
+			},
+			{
+				"id": "friend_offline",
+				"value": "Игрок {0} не в сети"
+			},
+			{
+				"id": "friend_max_error",
+				"value": "Невозможно добавить друга, нету свободных слотов."
+			}
+		]
+	}
+}
