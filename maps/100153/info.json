@@ -1,0 +1,62 @@
+{
+  "info": {
+    "map_name": "Wyrm Pit Tunnel",
+    "width": 34,
+    "height": 16,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "items": [
+    {
+      "tpl_id": 37,
+      "x": 54,
+      "y": 322,
+      "respawn_delay": 150000,
+      "units": 5
+    },
+    {
+      "tpl_id": 42,
+      "x": 678,
+      "y": 220,
+      "respawn_delay": 150000,
+      "units": 5
+    }
+  ],
+  "portals": [
+    {
+      "cell": {
+        "x": 31,
+        "y": 1
+      },
+      "dest": {
+        "world_id": 100154,
+        "x": 170,
+        "y": 370
+      },
+      "required_quest": "8",
+      "required_level": 0
+    },
+    {
+      "cell": {
+        "x": 4,
+        "y": 15
+      },
+      "dest": {
+        "world_id": 100150,
+        "x": 670,
+        "y": 70
+      },
+      "required_quest": "",
+      "required_level": 0
+    }
+  ],
+  "triggers": [],
+  "graphics": [
+    100130,
+    100143,
+    100144
+  ]
+}

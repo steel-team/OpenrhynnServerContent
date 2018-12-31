@@ -1,0 +1,23 @@
+{
+  "info": {
+    "map_name": "Astral Prison",
+    "width": 15,
+    "height": 15,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 142,
+      "y": 217
+    }
+  },
+  "items": [],
+  "portals": [],
+  "triggers": [],
+  "graphics": [
+    100131,
+    100130,
+    100145,
+    100140,
+    100143,
+    100144
+  ]
+}

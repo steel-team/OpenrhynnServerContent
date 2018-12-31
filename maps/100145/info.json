@@ -1,0 +1,41 @@
+{
+  "info": {
+    "map_name": "Ragnuk`s House",
+    "width": 13,
+    "height": 5,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "items": [
+    {
+      "tpl_id": 39,
+      "x": 35,
+      "y": 75,
+      "respawn_delay": 150000,
+      "units": 3
+    }
+  ],
+  "portals": [
+    {
+      "cell": {
+        "x": 9,
+        "y": 4
+      },
+      "dest": {
+        "world_id": 100132,
+        "x": 520,
+        "y": 320
+      },
+      "required_quest": "",
+      "required_level": 0
+    }
+  ],
+  "triggers": [],
+  "graphics": [
+    100124,
+    100129
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 100073,
+  "name": "Heavy Knight",
+  "clan_id": -1,
+  "graphics": {
+    "id": 200008,
+    "x": 0,
+    "y": 0,
+    "dim": 25
+  },
+  "level": 88,
+  "health": 1500,
+  "damage": 3000,
+  "attack": 3000,
+  "defense": 650,
+  "skill": 650,
+  "move_range": 75,
+  "move_speed": 2,
+  "attack_range": 75,
+  "ai": "default",
+  "aggresive": true,
+  "drop_exp": 2200,
+  "drop_gold": 1500,
+  "peaceful": false,
+  "drop_chance": 40,
+  "talk_script": "",
+  "legendary": false
+}

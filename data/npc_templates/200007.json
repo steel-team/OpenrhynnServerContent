@@ -1,0 +1,20 @@
+{
+  "id": 200007,
+  "name": "Master Leihkan",
+  "clan_id": -1,
+  "graphics": {
+    "id": 100181,
+    "x": 0,
+    "y": 0,
+    "dim": 20
+  },
+  "level": 99,
+  "health": 200,
+  "move_range": 60,
+  "move_speed": 2,
+  "type": "Quester",
+  "ai": "stay",
+  "talk_script": "",
+  "dialog_script": "Master Leihkan.js",
+  "items": []
+}

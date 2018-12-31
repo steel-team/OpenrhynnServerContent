@@ -1,0 +1,28 @@
+{
+  "id": 100067,
+  "name": "Dalron",
+  "clan_id": -1,
+  "graphics": {
+    "id": 200005,
+    "x": 0,
+    "y": 0,
+    "dim": 25
+  },
+  "level": 99,
+  "health": 10000,
+  "damage": 2000,
+  "attack": 2000,
+  "defense": 1050,
+  "skill": 1150,
+  "move_range": 75,
+  "move_speed": 4,
+  "attack_range": 75,
+  "ai": "default",
+  "aggresive": true,
+  "drop_exp": 3000,
+  "drop_gold": 700,
+  "peaceful": false,
+  "drop_chance": 18,
+  "talk_script": "./data/scripts/talk/100067.js",
+  "legendary": true
+}

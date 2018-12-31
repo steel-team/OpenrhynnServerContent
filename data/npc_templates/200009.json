@@ -1,0 +1,20 @@
+{
+  "id": 200009,
+  "name": "Jack-over-the bridge",
+  "clan_id": -1,
+  "graphics": {
+    "id": 200002,
+    "x": 0,
+    "y": 0,
+    "dim": 20
+  },
+  "level": 99,
+  "health": 200,
+  "move_range": 60,
+  "move_speed": 2,
+  "type": "Quester",
+  "ai": "stay",
+  "talk_script": "",
+  "dialog_script": "Jack-over-the bridge.js",
+  "items": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": 100001,
+  "name": "Mosquito",
+  "clan_id": -1,
+  "graphics": {
+    "id": 100183,
+    "x": 0,
+    "y": 0,
+    "dim": 15
+  },
+  "level": 2,
+  "health": 400,
+  "damage": 230,
+  "attack": 230,
+  "defense": 170,
+  "skill": 340,
+  "move_range": 45,
+  "move_speed": 2,
+  "attack_range": 75,
+  "ai": "default",
+  "aggresive": true,
+  "drop_exp": 100,
+  "drop_gold": 15,
+  "peaceful": false,
+  "drop_chance": 40,
+  "talk_script": "./data/scripts/talk/100001.js",
+  "legendary": false
+}

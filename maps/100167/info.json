@@ -1,0 +1,32 @@
+{
+  "info": {
+    "map_name": "Outskirts of Amona",
+    "width": 15,
+    "height": 10,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "items": [],
+  "portals": [
+    {
+      "cell": {
+        "x": 8,
+        "y": 4
+      },
+      "dest": {
+        "world_id": 100162,
+        "x": 220,
+        "y": 20
+      },
+      "required_quest": "",
+      "required_level": 0
+    }
+  ],
+  "triggers": [],
+  "graphics": [
+    100131
+  ]
+}

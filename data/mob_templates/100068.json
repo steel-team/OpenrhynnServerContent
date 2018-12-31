@@ -1,0 +1,28 @@
+{
+  "id": 100068,
+  "name": "Orc Captain",
+  "clan_id": -1,
+  "graphics": {
+    "id": 100188,
+    "x": 0,
+    "y": 0,
+    "dim": 25
+  },
+  "level": 80,
+  "health": 4200,
+  "damage": 2000,
+  "attack": 2000,
+  "defense": 250,
+  "skill": 1050,
+  "move_range": 75,
+  "move_speed": 2,
+  "attack_range": 75,
+  "ai": "default",
+  "aggresive": true,
+  "drop_exp": 1600,
+  "drop_gold": 1,
+  "peaceful": false,
+  "drop_chance": 50,
+  "talk_script": "./data/scripts/talk/100068.js",
+  "legendary": false
+}

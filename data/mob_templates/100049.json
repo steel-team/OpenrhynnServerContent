@@ -1,0 +1,28 @@
+{
+  "id": 100049,
+  "name": "Soul Catcher",
+  "clan_id": -1,
+  "graphics": {
+    "id": 100189,
+    "x": 0,
+    "y": 0,
+    "dim": 20
+  },
+  "level": 83,
+  "health": 6800,
+  "damage": 2400,
+  "attack": 2800,
+  "defense": 1250,
+  "skill": 1250,
+  "move_range": 75,
+  "move_speed": 2,
+  "attack_range": 75,
+  "ai": "default",
+  "aggresive": true,
+  "drop_exp": 2200,
+  "drop_gold": 547,
+  "peaceful": false,
+  "drop_chance": 23,
+  "talk_script": "./data/scripts/talk/100049.js",
+  "legendary": false
+}

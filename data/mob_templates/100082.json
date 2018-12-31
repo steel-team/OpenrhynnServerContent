@@ -1,0 +1,28 @@
+{
+  "id": 100082,
+  "name": "One Eye Frog",
+  "clan_id": -1,
+  "graphics": {
+    "id": 200010,
+    "x": 0,
+    "y": 0,
+    "dim": 20
+  },
+  "level": 97,
+  "health": 10000,
+  "damage": 2000,
+  "attack": 2000,
+  "defense": 1050,
+  "skill": 1150,
+  "move_range": 75,
+  "move_speed": 4,
+  "attack_range": 75,
+  "ai": "default",
+  "aggresive": true,
+  "drop_exp": 3000,
+  "drop_gold": 700,
+  "peaceful": false,
+  "drop_chance": 18,
+  "talk_script": "",
+  "legendary": true
+}

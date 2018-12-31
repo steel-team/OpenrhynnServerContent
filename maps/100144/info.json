@@ -1,0 +1,33 @@
+{
+  "info": {
+    "map_name": "New Cube",
+    "width": 9,
+    "height": 9,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "items": [],
+  "portals": [
+    {
+      "cell": {
+        "x": 4,
+        "y": 0
+      },
+      "dest": {
+        "world_id": 100142,
+        "x": 170,
+        "y": 120
+      },
+      "required_quest": "",
+      "required_level": 0
+    }
+  ],
+  "triggers": [],
+  "graphics": [
+    100143,
+    100144
+  ]
+}

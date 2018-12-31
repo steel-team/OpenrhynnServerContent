@@ -1,0 +1,38 @@
+{
+  "info": {
+    "map_name": "Hut of bandits",
+    "width": 15,
+    "height": 10,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "items": [],
+  "portals": [
+    {
+      "cell": {
+        "x": 3,
+        "y": 1
+      },
+      "dest": {
+        "world_id": 100148,
+        "x": 45,
+        "y": 70
+      },
+      "required_quest": "",
+      "required_level": 0
+    }
+  ],
+  "triggers": [],
+  "graphics": [
+    100125,
+    100130,
+    100129,
+    100124,
+    100145,
+    100144,
+    100143
+  ]
+}

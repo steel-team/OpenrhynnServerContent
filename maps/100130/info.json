@@ -1,0 +1,74 @@
+{
+  "info": {
+    "map_name": "Coast",
+    "width": 24,
+    "height": 24,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 122,
+      "y": 245
+    }
+  },
+  "items": [
+    {
+      "tpl_id": 37,
+      "x": 170,
+      "y": 345,
+      "respawn_delay": 150000,
+      "units": 3
+    },
+    {
+      "tpl_id": 38,
+      "x": 15,
+      "y": 15,
+      "respawn_delay": 150000,
+      "units": 1
+    }
+  ],
+  "portals": [
+    {
+      "cell": {
+        "x": 12,
+        "y": 0
+      },
+      "dest": {
+        "world_id": 100132,
+        "x": 535,
+        "y": 665
+      },
+      "required_quest": "",
+      "required_level": 0
+    },
+    {
+      "cell": {
+        "x": 10,
+        "y": 6
+      },
+      "dest": {
+        "world_id": 100130,
+        "x": 320,
+        "y": 270
+      },
+      "required_quest": "",
+      "required_level": 0
+    },
+    {
+      "cell": {
+        "x": 16,
+        "y": 14
+      },
+      "dest": {
+        "world_id": 100163,
+        "x": 120,
+        "y": 20
+      },
+      "required_quest": "",
+      "required_level": 0
+    }
+  ],
+  "triggers": [],
+  "graphics": [
+    100111,
+    100110
+  ]
+}

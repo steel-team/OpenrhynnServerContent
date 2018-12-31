@@ -1,0 +1,34 @@
+{
+  "info": {
+    "map_name": "Pirate's Friend",
+    "width": 32,
+    "height": 25,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "items": [],
+  "portals": [
+    {
+      "cell": {
+        "x": 8,
+        "y": 1
+      },
+      "dest": {
+        "world_id": 100134,
+        "x": 295,
+        "y": 45
+      },
+      "required_quest": "",
+      "required_level": 0
+    }
+  ],
+  "triggers": [],
+  "graphics": [
+    100121,
+    100122,
+    100123
+  ]
+}

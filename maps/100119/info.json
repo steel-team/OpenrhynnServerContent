@@ -1,0 +1,22 @@
+{
+  "info": {
+    "map_name": "PvP arena",
+    "width": 20,
+    "height": 20,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 80,
+      "y": 80
+    }
+  },
+  "items": [],
+  "portals": [],
+  "triggers": [],
+  "graphics": [
+    100126,
+    100122,
+    100141,
+    100142,
+    100127
+  ]
+}

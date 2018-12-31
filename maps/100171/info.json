@@ -1,0 +1,40 @@
+{
+  "info": {
+    "map_name": "Catacombs",
+    "width": 20,
+    "height": 20,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "items": [],
+  "portals": [
+    {
+      "cell": {
+        "x": 3,
+        "y": 0
+      },
+      "dest": {
+        "world_id": 100169,
+        "x": 445,
+        "y": 345
+      },
+      "required_quest": "",
+      "required_level": 0
+    }
+  ],
+  "triggers": [],
+  "graphics": [
+    100130,
+    100123,
+    100110,
+    100124,
+    100125,
+    100145,
+    100136,
+    100143,
+    100144
+  ]
+}

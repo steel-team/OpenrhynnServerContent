@@ -1,0 +1,61 @@
+{
+  "info": {
+    "map_name": "Secret Laboratory",
+    "width": 19,
+    "height": 11,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 122,
+      "y": 245
+    }
+  },
+  "items": [
+    {
+      "tpl_id": 40,
+      "x": 58,
+      "y": 210,
+      "respawn_delay": 150000,
+      "units": 3
+    },
+    {
+      "tpl_id": 41,
+      "x": 350,
+      "y": 210,
+      "respawn_delay": 150000,
+      "units": 3
+    }
+  ],
+  "portals": [
+    {
+      "cell": {
+        "x": 4,
+        "y": 0
+      },
+      "dest": {
+        "world_id": 100140,
+        "x": 70,
+        "y": 320
+      },
+      "required_quest": "",
+      "required_level": 0
+    },
+    {
+      "cell": {
+        "x": 7,
+        "y": 6
+      },
+      "dest": {
+        "world_id": 100144,
+        "x": 95,
+        "y": 20
+      },
+      "required_quest": "",
+      "required_level": 0
+    }
+  ],
+  "triggers": [],
+  "graphics": [
+    100124,
+    100125
+  ]
+}

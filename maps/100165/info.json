@@ -1,0 +1,23 @@
+{
+  "info": {
+    "map_name": "Secret hideout",
+    "width": 10,
+    "height": 10,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "items": [],
+  "portals": [],
+  "triggers": [],
+  "graphics": [
+    100146,
+    100136,
+    100135,
+    100132,
+    100133,
+    100110
+  ]
+}

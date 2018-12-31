@@ -1,0 +1,20 @@
+{
+  "info": {
+    "map_name": "Coast",
+    "width": 96,
+    "height": 96,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "items": [],
+  "portals": [],
+  "triggers": [],
+  "graphics": [
+    100110,
+    100111,
+    100112
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 100075,
+  "name": "Mummy",
+  "clan_id": -1,
+  "graphics": {
+    "id": 100184,
+    "x": 0,
+    "y": 0,
+    "dim": 25
+  },
+  "level": 83,
+  "health": 6500,
+  "damage": 2300,
+  "attack": 2800,
+  "defense": 1050,
+  "skill": 1050,
+  "move_range": 75,
+  "move_speed": 2,
+  "attack_range": 75,
+  "ai": "default",
+  "aggresive": true,
+  "drop_exp": 1500,
+  "drop_gold": 305,
+  "peaceful": false,
+  "drop_chance": 27,
+  "talk_script": "",
+  "legendary": false
+}

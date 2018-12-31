@@ -1,0 +1,28 @@
+{
+  "id": 100022,
+  "name": "Blood Claw",
+  "clan_id": -1,
+  "graphics": {
+    "id": 100003,
+    "x": 0,
+    "y": 0,
+    "dim": 30
+  },
+  "level": 81,
+  "health": 6700,
+  "damage": 2300,
+  "attack": 2700,
+  "defense": 1250,
+  "skill": 1250,
+  "move_range": 75,
+  "move_speed": 3,
+  "attack_range": 75,
+  "ai": "default",
+  "aggresive": true,
+  "drop_exp": 2080,
+  "drop_gold": 230,
+  "peaceful": false,
+  "drop_chance": 20,
+  "talk_script": "./data/scripts/talk/100022.js",
+  "legendary": true
+}

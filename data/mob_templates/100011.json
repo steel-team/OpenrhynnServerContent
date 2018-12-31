@@ -1,0 +1,28 @@
+{
+  "id": 100011,
+  "name": "Bug",
+  "clan_id": -1,
+  "graphics": {
+    "id": 100183,
+    "x": 0,
+    "y": 0,
+    "dim": 15
+  },
+  "level": 55,
+  "health": 360,
+  "damage": 1500,
+  "attack": 1500,
+  "defense": 800,
+  "skill": 800,
+  "move_range": 55,
+  "move_speed": 3,
+  "attack_range": 75,
+  "ai": "default",
+  "aggresive": true,
+  "drop_exp": 650,
+  "drop_gold": 120,
+  "peaceful": false,
+  "drop_chance": 30,
+  "talk_script": "./data/scripts/talk/100011.js",
+  "legendary": false
+}

@@ -1,0 +1,34 @@
+{
+  "info": {
+    "map_name": "Anencia (Tavern)",
+    "width": 18,
+    "height": 10,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "items": [],
+  "portals": [
+    {
+      "cell": {
+        "x": 13,
+        "y": 0
+      },
+      "dest": {
+        "world_id": 100160,
+        "x": 120,
+        "y": 95
+      },
+      "required_quest": "",
+      "required_level": 0
+    }
+  ],
+  "triggers": [],
+  "graphics": [
+    100125,
+    100124,
+    100129
+  ]
+}

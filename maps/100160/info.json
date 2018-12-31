@@ -1,0 +1,45 @@
+{
+  "info": {
+    "map_name": "Alencia",
+    "width": 14,
+    "height": 9,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "items": [],
+  "portals": [
+    {
+      "cell": {
+        "x": 13,
+        "y": 4
+      },
+      "dest": {
+        "world_id": 100162,
+        "x": 45,
+        "y": 245
+      },
+      "required_quest": "",
+      "required_level": 0
+    },
+    {
+      "cell": {
+        "x": 5,
+        "y": 3
+      },
+      "dest": {
+        "world_id": 100158,
+        "x": 320,
+        "y": 20
+      },
+      "required_quest": "",
+      "required_level": 0
+    }
+  ],
+  "triggers": [],
+  "graphics": [
+    100146
+  ]
+}

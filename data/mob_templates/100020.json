@@ -1,0 +1,28 @@
+{
+  "id": 100020,
+  "name": "Orc",
+  "clan_id": -1,
+  "graphics": {
+    "id": 100188,
+    "x": 0,
+    "y": 0,
+    "dim": 25
+  },
+  "level": 60,
+  "health": 3900,
+  "damage": 1600,
+  "attack": 1700,
+  "defense": 900,
+  "skill": 900,
+  "move_range": 75,
+  "move_speed": 2,
+  "attack_range": 75,
+  "ai": "default",
+  "aggresive": true,
+  "drop_exp": 1600,
+  "drop_gold": 125,
+  "peaceful": false,
+  "drop_chance": 25,
+  "talk_script": "./data/scripts/talk/100020.js",
+  "legendary": false
+}

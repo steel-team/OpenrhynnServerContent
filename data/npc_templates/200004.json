@@ -1,0 +1,20 @@
+{
+  "id": 200004,
+  "name": "Welma",
+  "clan_id": -1,
+  "graphics": {
+    "id": 200002,
+    "x": 0,
+    "y": 80,
+    "dim": 20
+  },
+  "level": 99,
+  "health": 200,
+  "move_range": 60,
+  "move_speed": 2,
+  "type": "Quester",
+  "ai": "stay",
+  "talk_script": "",
+  "dialog_script": "Welma.js",
+  "items": []
+}

@@ -1,0 +1,67 @@
+{
+  "info": {
+    "map_name": "Snow Lands (Village)",
+    "width": 21,
+    "height": 14,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "items": [
+    {
+      "tpl_id": 20,
+      "x": 252,
+      "y": 155,
+      "respawn_delay": 180000,
+      "units": 3
+    }
+  ],
+  "portals": [
+    {
+      "cell": {
+        "x": 2,
+        "y": 1
+      },
+      "dest": {
+        "world_id": 100136,
+        "x": 395,
+        "y": 345
+      },
+      "required_quest": "",
+      "required_level": 0
+    },
+    {
+      "cell": {
+        "x": 20,
+        "y": 11
+      },
+      "dest": {
+        "world_id": 100166,
+        "x": 295,
+        "y": 195
+      },
+      "required_quest": "",
+      "required_level": 0
+    },
+    {
+      "cell": {
+        "x": 19,
+        "y": 0
+      },
+      "dest": {
+        "world_id": 100136,
+        "x": 395,
+        "y": 345
+      },
+      "required_quest": "",
+      "required_level": 0
+    }
+  ],
+  "triggers": [],
+  "graphics": [
+    100138,
+    100137
+  ]
+}

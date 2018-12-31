@@ -1,0 +1,28 @@
+{
+  "id": 100034,
+  "name": "Zombie",
+  "clan_id": -1,
+  "graphics": {
+    "id": 100186,
+    "x": 0,
+    "y": 0,
+    "dim": 20
+  },
+  "level": 57,
+  "health": 3800,
+  "damage": 1500,
+  "attack": 1800,
+  "defense": 900,
+  "skill": 900,
+  "move_range": 75,
+  "move_speed": 2,
+  "attack_range": 75,
+  "ai": "default",
+  "aggresive": true,
+  "drop_exp": 1390,
+  "drop_gold": 135,
+  "peaceful": false,
+  "drop_chance": 23,
+  "talk_script": "",
+  "legendary": false
+}

@@ -1,0 +1,23 @@
+{
+  "info": {
+    "map_name": "PvP Arena2",
+    "width": 21,
+    "height": 21,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "items": [],
+  "portals": [],
+  "triggers": [],
+  "graphics": [
+    100126,
+    100140,
+    100131,
+    100127,
+    100141,
+    100142
+  ]
+}

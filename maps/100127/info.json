@@ -1,0 +1,24 @@
+{
+  "info": {
+    "map_name": "Akana Lakes",
+    "width": 23,
+    "height": 20,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "items": [],
+  "portals": [],
+  "triggers": [],
+  "graphics": [
+    100128,
+    100135,
+    100136,
+    100133,
+    100140,
+    100139,
+    100132
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 200001,
+  "name": "Zelma",
+  "clan_id": -1,
+  "graphics": {
+    "id": 200001,
+    "x": 0,
+    "y": 0,
+    "dim": 20
+  },
+  "level": 10,
+  "health": 200,
+  "move_range": 125,
+  "move_speed": 2,
+  "type": "Quester",
+  "ai": "default",
+  "talk_script": "",
+  "dialog_script": "Zelma.js",
+  "items": []
+}

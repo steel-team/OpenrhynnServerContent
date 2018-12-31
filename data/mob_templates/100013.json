@@ -1,0 +1,28 @@
+{
+  "id": 100013,
+  "name": "Mummy",
+  "clan_id": -1,
+  "graphics": {
+    "id": 100184,
+    "x": 0,
+    "y": 0,
+    "dim": 25
+  },
+  "level": 13,
+  "health": 130,
+  "damage": 500,
+  "attack": 500,
+  "defense": 380,
+  "skill": 380,
+  "move_range": 75,
+  "move_speed": 2,
+  "attack_range": 75,
+  "ai": "default",
+  "aggresive": true,
+  "drop_exp": 450,
+  "drop_gold": 65,
+  "peaceful": false,
+  "drop_chance": 35,
+  "talk_script": "./data/scripts/talk/100013.js",
+  "legendary": false
+}

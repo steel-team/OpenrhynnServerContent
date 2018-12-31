@@ -1,0 +1,63 @@
+{
+  "info": {
+    "map_name": "Akana Fields",
+    "width": 20,
+    "height": 17,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "items": [],
+  "portals": [
+    {
+      "cell": {
+        "x": 19,
+        "y": 7
+      },
+      "dest": {
+        "world_id": 100136,
+        "x": 70,
+        "y": 170
+      },
+      "required_quest": "",
+      "required_level": 0
+    },
+    {
+      "cell": {
+        "x": 0,
+        "y": 12
+      },
+      "dest": {
+        "world_id": 100150,
+        "x": 45,
+        "y": 95
+      },
+      "required_quest": "",
+      "required_level": 0
+    },
+    {
+      "cell": {
+        "x": 2,
+        "y": 2
+      },
+      "dest": {
+        "world_id": 100155,
+        "x": 70,
+        "y": 45
+      },
+      "required_quest": "",
+      "required_level": 0
+    }
+  ],
+  "triggers": [],
+  "graphics": [
+    100126,
+    100128,
+    100127,
+    100135,
+    100141,
+    100142
+  ]
+}

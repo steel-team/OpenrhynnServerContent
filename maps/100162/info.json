@@ -1,0 +1,77 @@
+{
+  "info": {
+    "map_name": "Road on the Old Col",
+    "width": 12,
+    "height": 18,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "items": [],
+  "portals": [
+    {
+      "cell": {
+        "x": 1,
+        "y": 0
+      },
+      "dest": {
+        "world_id": 100162,
+        "x": 20,
+        "y": 20
+      },
+      "required_quest": "",
+      "required_level": 0
+    },
+    {
+      "cell": {
+        "x": 6,
+        "y": 16
+      },
+      "dest": {
+        "world_id": 100137,
+        "x": 195,
+        "y": 20
+      },
+      "required_quest": "",
+      "required_level": 0
+    },
+    {
+      "cell": {
+        "x": 10,
+        "y": 1
+      },
+      "dest": {
+        "world_id": 100167,
+        "x": 170,
+        "y": 95
+      },
+      "required_quest": "",
+      "required_level": 0
+    },
+    {
+      "cell": {
+        "x": 1,
+        "y": 10
+      },
+      "dest": {
+        "world_id": 100160,
+        "x": 295,
+        "y": 95
+      },
+      "required_quest": "",
+      "required_level": 0
+    }
+  ],
+  "triggers": [],
+  "graphics": [
+    100127,
+    100128,
+    100132,
+    100141,
+    100142,
+    100146,
+    100126
+  ]
+}

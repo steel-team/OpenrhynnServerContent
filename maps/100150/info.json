@@ -1,0 +1,68 @@
+{
+  "info": {
+    "map_name": "Old Graves",
+    "width": 31,
+    "height": 31,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "items": [
+    {
+      "tpl_id": 10,
+      "x": 398,
+      "y": 206,
+      "respawn_delay": 150000,
+      "units": 3
+    }
+  ],
+  "portals": [
+    {
+      "cell": {
+        "x": 2,
+        "y": 2
+      },
+      "dest": {
+        "world_id": 100148,
+        "x": 45,
+        "y": 295
+      },
+      "required_quest": "",
+      "required_level": 0
+    },
+    {
+      "cell": {
+        "x": 25,
+        "y": 21
+      },
+      "dest": {
+        "world_id": 100151,
+        "x": 20,
+        "y": 20
+      },
+      "required_quest": "",
+      "required_level": 0
+    },
+    {
+      "cell": {
+        "x": 27,
+        "y": 2
+      },
+      "dest": {
+        "world_id": 100153,
+        "x": 120,
+        "y": 345
+      },
+      "required_quest": "",
+      "required_level": 85
+    }
+  ],
+  "triggers": [],
+  "graphics": [
+    100130,
+    100143,
+    100144
+  ]
+}

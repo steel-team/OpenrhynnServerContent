@@ -1,0 +1,28 @@
+{
+  "id": 100080,
+  "name": "Sand Golem",
+  "clan_id": -1,
+  "graphics": {
+    "id": 200009,
+    "x": 0,
+    "y": 0,
+    "dim": 30
+  },
+  "level": 79,
+  "health": 1500,
+  "damage": 2200,
+  "attack": 2000,
+  "defense": 750,
+  "skill": 650,
+  "move_range": 75,
+  "move_speed": 2,
+  "attack_range": 75,
+  "ai": "default",
+  "aggresive": true,
+  "drop_exp": 1400,
+  "drop_gold": 320,
+  "peaceful": false,
+  "drop_chance": 40,
+  "talk_script": "",
+  "legendary": false
+}

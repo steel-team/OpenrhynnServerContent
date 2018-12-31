@@ -1,0 +1,33 @@
+{
+  "id": 200000,
+  "name": "Akana Trader",
+  "clan_id": -1,
+  "graphics": {
+    "id": 200002,
+    "x": 0,
+    "y": 80,
+    "dim": 20
+  },
+  "level": 20,
+  "health": 200,
+  "move_range": 60,
+  "move_speed": 2,
+  "type": "Trader",
+  "ai": "stay",
+  "talk_script": "",
+  "dialog_script": "",
+  "items": [
+    {
+      "tpl_id": "1",
+      "amount": "2"
+    },
+    {
+      "tpl_id": "2",
+      "amount": "1"
+    },
+    {
+      "tpl_id": "3",
+      "amount": "1"
+    }
+  ]
+}

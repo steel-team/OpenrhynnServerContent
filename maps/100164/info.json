@@ -1,0 +1,32 @@
+{
+  "info": {
+    "map_name": "The source of power",
+    "width": 9,
+    "height": 9,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "items": [],
+  "portals": [
+    {
+      "cell": {
+        "x": 4,
+        "y": 0
+      },
+      "dest": {
+        "world_id": 100163,
+        "x": 320,
+        "y": 20
+      },
+      "required_quest": "",
+      "required_level": 0
+    }
+  ],
+  "triggers": [],
+  "graphics": [
+    100145
+  ]
+}

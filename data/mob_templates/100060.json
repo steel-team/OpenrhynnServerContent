@@ -1,0 +1,28 @@
+{
+  "id": 100060,
+  "name": "Worm",
+  "clan_id": -1,
+  "graphics": {
+    "id": 100182,
+    "x": 0,
+    "y": 0,
+    "dim": 20
+  },
+  "level": 69,
+  "health": 4500,
+  "damage": 2000,
+  "attack": 2000,
+  "defense": 1000,
+  "skill": 1000,
+  "move_range": 75,
+  "move_speed": 2,
+  "attack_range": 75,
+  "ai": "default",
+  "aggresive": true,
+  "drop_exp": 1700,
+  "drop_gold": 270,
+  "peaceful": false,
+  "drop_chance": 30,
+  "talk_script": "",
+  "legendary": false
+}

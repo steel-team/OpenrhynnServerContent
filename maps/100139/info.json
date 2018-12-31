@@ -1,0 +1,35 @@
+{
+  "info": {
+    "map_name": "Wizard Dungeon",
+    "width": 8,
+    "height": 11,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "items": [],
+  "portals": [
+    {
+      "cell": {
+        "x": 0,
+        "y": 9
+      },
+      "dest": {
+        "world_id": 100138,
+        "x": 70,
+        "y": 20
+      },
+      "required_quest": "",
+      "required_level": 0
+    }
+  ],
+  "triggers": [],
+  "graphics": [
+    100131,
+    100125,
+    100124,
+    100129
+  ]
+}

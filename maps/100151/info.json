@@ -1,0 +1,34 @@
+{
+  "info": {
+    "map_name": "Old Graves (Prison) )",
+    "width": 9,
+    "height": 7,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "items": [],
+  "portals": [
+    {
+      "cell": {
+        "x": 1,
+        "y": 0
+      },
+      "dest": {
+        "world_id": 100150,
+        "x": 620,
+        "y": 545
+      },
+      "required_quest": "",
+      "required_level": 0
+    }
+  ],
+  "triggers": [],
+  "graphics": [
+    100130,
+    100143,
+    100144
+  ]
+}

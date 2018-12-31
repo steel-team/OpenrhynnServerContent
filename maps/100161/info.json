@@ -1,0 +1,88 @@
+{
+  "info": {
+    "map_name": "Akana",
+    "width": 24,
+    "height": 32,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "items": [],
+  "portals": [
+    {
+      "cell": {
+        "x": 11,
+        "y": 7
+      },
+      "dest": {
+        "world_id": 100161,
+        "x": 270,
+        "y": 245
+      },
+      "required_quest": "",
+      "required_level": 0
+    },
+    {
+      "cell": {
+        "x": 11,
+        "y": 9
+      },
+      "dest": {
+        "world_id": 100161,
+        "x": 270,
+        "y": 145
+      },
+      "required_quest": "",
+      "required_level": 0
+    },
+    {
+      "cell": {
+        "x": 22,
+        "y": 11
+      },
+      "dest": {
+        "world_id": 100161,
+        "x": 270,
+        "y": 620
+      },
+      "required_quest": "",
+      "required_level": 0
+    },
+    {
+      "cell": {
+        "x": 11,
+        "y": 25
+      },
+      "dest": {
+        "world_id": 100161,
+        "x": 270,
+        "y": 545
+      },
+      "required_quest": "",
+      "required_level": 0
+    },
+    {
+      "cell": {
+        "x": 11,
+        "y": 0
+      },
+      "dest": {
+        "world_id": 100136,
+        "x": 120,
+        "y": 435
+      },
+      "required_quest": "",
+      "required_level": 0
+    }
+  ],
+  "triggers": [],
+  "graphics": [
+    100127,
+    100132,
+    100135,
+    100142,
+    100141
+  ]
+}

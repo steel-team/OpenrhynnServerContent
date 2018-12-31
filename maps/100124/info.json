@@ -1,0 +1,20 @@
+{
+  "info": {
+    "map_name": "Old col",
+    "width": 23,
+    "height": 26,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "items": [],
+  "portals": [],
+  "triggers": [],
+  "graphics": [
+    100130,
+    100143,
+    100144
+  ]
+}

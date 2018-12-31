@@ -1,0 +1,28 @@
+{
+  "id": 100046,
+  "name": "Sceleton",
+  "clan_id": -1,
+  "graphics": {
+    "id": 100187,
+    "x": 0,
+    "y": 0,
+    "dim": 25
+  },
+  "level": 91,
+  "health": 7500,
+  "damage": 2500,
+  "attack": 2500,
+  "defense": 1500,
+  "skill": 1500,
+  "move_range": 75,
+  "move_speed": 2,
+  "attack_range": 75,
+  "ai": "default",
+  "aggresive": true,
+  "drop_exp": 2600,
+  "drop_gold": 400,
+  "peaceful": false,
+  "drop_chance": 28,
+  "talk_script": "./data/scripts/talk/100046.js",
+  "legendary": false
+}

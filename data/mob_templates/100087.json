@@ -1,0 +1,28 @@
+{
+  "id": 100087,
+  "name": "Spore Plant",
+  "clan_id": -1,
+  "graphics": {
+    "id": 200012,
+    "x": 0,
+    "y": 0,
+    "dim": 27
+  },
+  "level": 40,
+  "health": 1500,
+  "damage": 1200,
+  "attack": 1200,
+  "defense": 1050,
+  "skill": 1050,
+  "move_range": 0,
+  "move_speed": 0,
+  "attack_range": 75,
+  "ai": "stay",
+  "aggresive": true,
+  "drop_exp": 1000,
+  "drop_gold": 580,
+  "peaceful": false,
+  "drop_chance": 40,
+  "talk_script": "",
+  "legendary": false
+}

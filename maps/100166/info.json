@@ -1,0 +1,49 @@
+{
+  "info": {
+    "map_name": "The citadel of a great storm",
+    "width": 15,
+    "height": 10,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "items": [],
+  "portals": [
+    {
+      "cell": {
+        "x": 13,
+        "y": 8
+      },
+      "dest": {
+        "world_id": 100157,
+        "x": 445,
+        "y": 270
+      },
+      "required_quest": "",
+      "required_level": 0
+    },
+    {
+      "cell": {
+        "x": 5,
+        "y": 2
+      },
+      "dest": {
+        "world_id": 100169,
+        "x": 145,
+        "y": 20
+      },
+      "required_quest": "",
+      "required_level": 0
+    }
+  ],
+  "triggers": [],
+  "graphics": [
+    100140,
+    100141,
+    100139,
+    100138,
+    100137
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 100008,
+  "name": "Crab",
+  "clan_id": -1,
+  "graphics": {
+    "id": 100180,
+    "x": 0,
+    "y": 0,
+    "dim": 15
+  },
+  "level": 0,
+  "health": 1500,
+  "damage": 500,
+  "attack": 500,
+  "defense": 500,
+  "skill": 500,
+  "move_range": 75,
+  "move_speed": 2,
+  "attack_range": 75,
+  "ai": "default",
+  "aggresive": false,
+  "drop_exp": 10,
+  "drop_gold": 1,
+  "peaceful": true,
+  "drop_chance": 0,
+  "talk_script": "",
+  "legendary": false
+}

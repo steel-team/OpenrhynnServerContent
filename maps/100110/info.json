@@ -1,0 +1,22 @@
+{
+  "info": {
+    "map_name": "Isle of Sabra",
+    "width": 35,
+    "height": 20,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "items": [],
+  "portals": [],
+  "triggers": [],
+  "graphics": [
+    100112,
+    100133,
+    100134,
+    100110,
+    100111
+  ]
+}

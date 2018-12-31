@@ -1,0 +1,28 @@
+{
+  "id": 100012,
+  "name": "Spider",
+  "clan_id": -1,
+  "graphics": {
+    "id": 100185,
+    "x": 0,
+    "y": 60,
+    "dim": 20
+  },
+  "level": 14,
+  "health": 130,
+  "damage": 500,
+  "attack": 500,
+  "defense": 380,
+  "skill": 380,
+  "move_range": 75,
+  "move_speed": 2,
+  "attack_range": 75,
+  "ai": "default",
+  "aggresive": true,
+  "drop_exp": 250,
+  "drop_gold": 70,
+  "peaceful": false,
+  "drop_chance": 30,
+  "talk_script": "",
+  "legendary": false
+}

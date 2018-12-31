@@ -1,0 +1,28 @@
+{
+  "id": 100063,
+  "name": "Blade Wyrm",
+  "clan_id": -1,
+  "graphics": {
+    "id": 100190,
+    "x": 0,
+    "y": 0,
+    "dim": 35
+  },
+  "level": 99,
+  "health": 10000,
+  "damage": 3000,
+  "attack": 3000,
+  "defense": 1750,
+  "skill": 1750,
+  "move_range": 75,
+  "move_speed": 4,
+  "attack_range": 75,
+  "ai": "default",
+  "aggresive": true,
+  "drop_exp": 3000,
+  "drop_gold": 700,
+  "peaceful": false,
+  "drop_chance": 18,
+  "talk_script": "./data/scripts/talk/100063.js",
+  "legendary": true
+}

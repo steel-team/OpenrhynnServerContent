@@ -1,0 +1,42 @@
+{
+  "info": {
+    "map_name": "Ancient Wyrm Pit",
+    "width": 14,
+    "height": 18,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "items": [
+    {
+      "tpl_id": 40,
+      "x": 102,
+      "y": 300,
+      "respawn_delay": 150000,
+      "units": 3
+    }
+  ],
+  "portals": [
+    {
+      "cell": {
+        "x": 7,
+        "y": 17
+      },
+      "dest": {
+        "world_id": 100153,
+        "x": 745,
+        "y": 45
+      },
+      "required_quest": "",
+      "required_level": 0
+    }
+  ],
+  "triggers": [],
+  "graphics": [
+    100130,
+    100143,
+    100144
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 100058,
+  "name": "Zombie",
+  "clan_id": -1,
+  "graphics": {
+    "id": 100186,
+    "x": 0,
+    "y": 0,
+    "dim": 20
+  },
+  "level": 73,
+  "health": 5300,
+  "damage": 2100,
+  "attack": 2300,
+  "defense": 1100,
+  "skill": 1100,
+  "move_range": 75,
+  "move_speed": 2,
+  "attack_range": 75,
+  "ai": "default",
+  "aggresive": true,
+  "drop_exp": 1650,
+  "drop_gold": 370,
+  "peaceful": false,
+  "drop_chance": 28,
+  "talk_script": "./data/scripts/talk/100058.js",
+  "legendary": false
+}

@@ -1,0 +1,48 @@
+{
+  "info": {
+    "map_name": "The old lighthouse",
+    "width": 15,
+    "height": 10,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "items": [],
+  "portals": [
+    {
+      "cell": {
+        "x": 5,
+        "y": 0
+      },
+      "dest": {
+        "world_id": 100130,
+        "x": 370,
+        "y": 345
+      },
+      "required_quest": "",
+      "required_level": 0
+    },
+    {
+      "cell": {
+        "x": 13,
+        "y": 0
+      },
+      "dest": {
+        "world_id": 100164,
+        "x": 95,
+        "y": 20
+      },
+      "required_quest": "",
+      "required_level": 0
+    }
+  ],
+  "triggers": [],
+  "graphics": [
+    100124,
+    100125,
+    100129,
+    100145
+  ]
+}

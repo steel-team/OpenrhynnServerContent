@@ -1,0 +1,28 @@
+{
+  "id": 100019,
+  "name": "Skeleton",
+  "clan_id": -1,
+  "graphics": {
+    "id": 100187,
+    "x": 0,
+    "y": 0,
+    "dim": 25
+  },
+  "level": 70,
+  "health": 4600,
+  "damage": 2000,
+  "attack": 2100,
+  "defense": 1000,
+  "skill": 1000,
+  "move_range": 75,
+  "move_speed": 2,
+  "attack_range": 75,
+  "ai": "default",
+  "aggresive": true,
+  "drop_exp": 1800,
+  "drop_gold": 190,
+  "peaceful": false,
+  "drop_chance": 21,
+  "talk_script": "",
+  "legendary": false
+}

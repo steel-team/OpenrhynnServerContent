@@ -1,0 +1,28 @@
+{
+  "id": 100031,
+  "name": "Ghost",
+  "clan_id": -1,
+  "graphics": {
+    "id": 100004,
+    "x": 0,
+    "y": 0,
+    "dim": 20
+  },
+  "level": 10,
+  "health": 1200,
+  "damage": 470,
+  "attack": 470,
+  "defense": 340,
+  "skill": 340,
+  "move_range": 75,
+  "move_speed": 2,
+  "attack_range": 75,
+  "ai": "default",
+  "aggresive": true,
+  "drop_exp": 280,
+  "drop_gold": 50,
+  "peaceful": false,
+  "drop_chance": 30,
+  "talk_script": "./data/scripts/talk/100031.js",
+  "legendary": false
+}

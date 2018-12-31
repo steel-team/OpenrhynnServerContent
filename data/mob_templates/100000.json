@@ -1,0 +1,28 @@
+{
+  "id": 100000,
+  "name": "Sheep",
+  "clan_id": -1,
+  "graphics": {
+    "id": 100000,
+    "x": 0,
+    "y": 0,
+    "dim": 20
+  },
+  "level": 1,
+  "health": 300,
+  "damage": 200,
+  "attack": 200,
+  "defense": 150,
+  "skill": 300,
+  "move_range": 45,
+  "move_speed": 2,
+  "attack_range": 75,
+  "ai": "default",
+  "aggresive": false,
+  "drop_exp": 50,
+  "drop_gold": 5,
+  "peaceful": true,
+  "drop_chance": 30,
+  "talk_script": "./data/scripts/talk/100000.js",
+  "legendary": false
+}

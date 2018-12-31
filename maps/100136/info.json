@@ -1,0 +1,85 @@
+{
+  "info": {
+    "map_name": "Akana Outskirts",
+    "width": 25,
+    "height": 20,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "items": [],
+  "portals": [
+    {
+      "cell": {
+        "x": 24,
+        "y": 3
+      },
+      "dest": {
+        "world_id": 100134,
+        "x": 24,
+        "y": 24
+      },
+      "required_quest": "",
+      "required_level": 0
+    },
+    {
+      "cell": {
+        "x": 3,
+        "y": 0
+      },
+      "dest": {
+        "world_id": 100137,
+        "x": 245,
+        "y": 670
+      },
+      "required_quest": "",
+      "required_level": 0
+    },
+    {
+      "cell": {
+        "x": 0,
+        "y": 7
+      },
+      "dest": {
+        "world_id": 100148,
+        "x": 395,
+        "y": 170
+      },
+      "required_quest": "",
+      "required_level": 0
+    },
+    {
+      "cell": {
+        "x": 5,
+        "y": 19
+      },
+      "dest": {
+        "world_id": 100161,
+        "x": 270,
+        "y": 20
+      },
+      "required_quest": "",
+      "required_level": 0
+    },
+    {
+      "cell": {
+        "x": 18,
+        "y": 14
+      },
+      "dest": {
+        "world_id": 100157,
+        "x": 45,
+        "y": 45
+      },
+      "required_quest": "",
+      "required_level": 0
+    }
+  ],
+  "triggers": [],
+  "graphics": [
+    100141,
+    100127
+  ]
+}

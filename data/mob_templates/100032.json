@@ -1,0 +1,28 @@
+{
+  "id": 100032,
+  "name": "Ghost",
+  "clan_id": -1,
+  "graphics": {
+    "id": 100004,
+    "x": 0,
+    "y": 0,
+    "dim": 20
+  },
+  "level": 65,
+  "health": 4200,
+  "damage": 1800,
+  "attack": 1800,
+  "defense": 950,
+  "skill": 950,
+  "move_range": 75,
+  "move_speed": 2,
+  "attack_range": 75,
+  "ai": "default",
+  "aggresive": true,
+  "drop_exp": 1400,
+  "drop_gold": 125,
+  "peaceful": false,
+  "drop_chance": 23,
+  "talk_script": "",
+  "legendary": false
+}

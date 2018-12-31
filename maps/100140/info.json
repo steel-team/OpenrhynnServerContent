@@ -1,0 +1,49 @@
+{
+  "info": {
+    "map_name": "Secret Hallway",
+    "width": 6,
+    "height": 15,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 20,
+      "y": 20
+    }
+  },
+  "items": [],
+  "portals": [
+    {
+      "cell": {
+        "x": 3,
+        "y": 0
+      },
+      "dest": {
+        "world_id": 100137,
+        "x": 720,
+        "y": 470
+      },
+      "required_quest": "",
+      "required_level": 0
+    },
+    {
+      "cell": {
+        "x": 3,
+        "y": 14
+      },
+      "dest": {
+        "world_id": 100142,
+        "x": 95,
+        "y": 20
+      },
+      "required_quest": "",
+      "required_level": 0
+    }
+  ],
+  "triggers": [],
+  "graphics": [
+    100145,
+    100131,
+    100129,
+    100124,
+    100125
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 100083,
+  "name": "Frog",
+  "clan_id": -1,
+  "graphics": {
+    "id": 200011,
+    "x": 0,
+    "y": 0,
+    "dim": 20
+  },
+  "level": 50,
+  "health": 360,
+  "damage": 1000,
+  "attack": 1000,
+  "defense": 400,
+  "skill": 300,
+  "move_range": 55,
+  "move_speed": 3,
+  "attack_range": 75,
+  "ai": "default",
+  "aggresive": true,
+  "drop_exp": 450,
+  "drop_gold": 120,
+  "peaceful": false,
+  "drop_chance": 30,
+  "talk_script": "",
+  "legendary": false
+}

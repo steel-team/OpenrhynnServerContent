@@ -1,0 +1,28 @@
+{
+  "id": 100027,
+  "name": "Ghoul",
+  "clan_id": -1,
+  "graphics": {
+    "id": 100002,
+    "x": 0,
+    "y": 0,
+    "dim": 20
+  },
+  "level": 11,
+  "health": 1500,
+  "damage": 500,
+  "attack": 500,
+  "defense": 360,
+  "skill": 360,
+  "move_range": 75,
+  "move_speed": 2,
+  "attack_range": 75,
+  "ai": "default",
+  "aggresive": true,
+  "drop_exp": 290,
+  "drop_gold": 60,
+  "peaceful": false,
+  "drop_chance": 25,
+  "talk_script": "./data/scripts/talk/100027.js",
+  "legendary": false
+}

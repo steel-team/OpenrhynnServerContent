@@ -1,0 +1,28 @@
+{
+  "id": 100010,
+  "name": "Worm",
+  "clan_id": -1,
+  "graphics": {
+    "id": 100182,
+    "x": 0,
+    "y": 0,
+    "dim": 20
+  },
+  "level": 3,
+  "health": 500,
+  "damage": 260,
+  "attack": 260,
+  "defense": 190,
+  "skill": 190,
+  "move_range": 45,
+  "move_speed": 2,
+  "attack_range": 75,
+  "ai": "default",
+  "aggresive": true,
+  "drop_exp": 100,
+  "drop_gold": 30,
+  "peaceful": false,
+  "drop_chance": 40,
+  "talk_script": "./data/scripts/talk/100010.js",
+  "legendary": false
+}

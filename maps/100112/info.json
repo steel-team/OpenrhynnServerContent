@@ -1,0 +1,18 @@
+{
+  "info": {
+    "map_name": "Isle of Desert",
+    "width": 7,
+    "height": 9,
+    "pvp_zone": false,
+    "spawn": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "items": [],
+  "portals": [],
+  "triggers": [],
+  "graphics": [
+    100132
+  ]
+}
