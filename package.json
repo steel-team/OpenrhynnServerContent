@@ -1,0 +1,13 @@
+{
+  "name": "OpenrhynnServerContent",
+  "version": "1.0.0",
+  "repository": "git@github.com:Plut505/OpenrhynnServerContent.git",
+  "author": "steel97 <ivan.yurkov@steel-team.net>",
+  "license": "MIT",
+  "scripts": {
+    "fmt": "prettier -w ./data/scripts/**"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
