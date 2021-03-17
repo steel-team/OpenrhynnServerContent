@@ -5,7 +5,7 @@
   "author": "steel97 <ivan.yurkov@steel-team.net>",
   "license": "MIT",
   "scripts": {
-    "fmt": "prettier -w ./data/scripts/**/*"
+    "fmt": "prettier -w ./data/scripts/**"
   },
   "devDependencies": {
     "prettier": "^2.2.1"
