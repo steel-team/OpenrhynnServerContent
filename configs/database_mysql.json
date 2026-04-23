@@ -1,0 +1,11 @@
+{
+	"database": {
+		"driver": "com.mysql.cj.jdbc.Driver",
+		"str": "jdbc:mysql://localhost:3306/openrhynn?useLegacyDatetimeCode=false&serverTimezone=Europe/Moscow",
+		"login": "",
+		"password": "",
+		"min_conns": "5",
+		"max_conns": "20",
+		"prepared_statements_max": "180"
+	}
+}

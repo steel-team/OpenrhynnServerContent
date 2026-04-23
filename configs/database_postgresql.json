@@ -1,0 +1,11 @@
+{
+    "database": {
+        "driver": "org.postgresql.Driver",
+        "str": "jdbc:postgresql://localhost:5432/openrhynn",
+        "login": "",
+        "password": "",
+        "min_conns": "5",
+        "max_conns": "20",
+        "prepared_statements_max": "180"
+    }
+}
