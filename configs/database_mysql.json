@@ -1,7 +1,7 @@
 {
 	"database": {
 		"driver": "com.mysql.cj.jdbc.Driver",
-		"str": "jdbc:mysql://localhost:3306/openrhynn?useLegacyDatetimeCode=false&serverTimezone=Europe/Moscow",
+		"str": "jdbc:mysql://localhost:3306/openrhynn?useLegacyDatetimeCode=false&serverTimezone=Europe/Moscow&sessionVariables=sql_mode=ANSI_QUOTES",
 		"login": "",
 		"password": "",
 		"min_conns": "5",
