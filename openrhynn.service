@@ -1,0 +1,15 @@
+
+[Unit]
+Description=OpenRhynn server
+
+[Service]
+User=root
+KillMode=control-group
+WorkingDirectory=/home/rhynn
+ExecStart=/home/rhynn/run.sh
+Restart=always
+TimeoutSec=300
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
