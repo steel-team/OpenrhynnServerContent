@@ -124,7 +124,7 @@
 			},
 			{
 				"id": "friend_deleted",
-				"value": "Player {0} delete you from friend list!";
+				"value": "Player {0} delete you from friend list!"
 			},
 			{
 				"id": "friend_online",
